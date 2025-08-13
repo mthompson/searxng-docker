@@ -83,4 +83,4 @@ route {
 }
 
 # SearXNG
-reverse_proxy localhost:8080
+reverse_proxy localhost:8081
